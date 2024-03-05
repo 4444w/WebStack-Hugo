@@ -31,7 +31,9 @@
     - title: telegram
       logo: telegram.png
       url: https://web.telegram.org/z/
-
+    - title: 抖音
+      logo: 抖音.png
+      url: https://www.douyin.com/
 
 
 - taxonomy: 科研办公
