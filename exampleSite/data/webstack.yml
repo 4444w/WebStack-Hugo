@@ -66,10 +66,9 @@
           url: https://www.meiguodizhi.com
     - term: 网盘资源
       links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
+        - title: 123云盘
+          logo: 123云盘.png
+          url: https://www.123pan.com/
         - title: 阿里云盘
           logo: 阿里云盘.png
           url: https://www.aliyundrive.com/
@@ -80,5 +79,5 @@
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 蓝奏云
           logo: 蓝奏云盘.png
-          usrl: https://lanzoup.com/
+          url: https://lanzoup.com/
 
