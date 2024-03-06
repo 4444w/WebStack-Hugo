@@ -9,6 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: yanchi15
+        run: |
+          sleep 15
+
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
         env:
