@@ -25,6 +25,9 @@
     - title: 易搜-网盘搜索
       logo: 简易搜索.png
       url: https://yiso.fun/#
+    - title: 小白下载
+      logo: xiaobai.svg
+      url: https://m.xiaobai.mom/
     - title: 微信文件传输助手网页版
       logo: wxwj.png
       url: https://filehelper.weixin.qq.com
@@ -81,3 +84,10 @@
           logo: 蓝奏云盘.png
           url: https://lanzoup.com/
 
+
+- taxonomy: 乱七八糟
+  icon: fas fa-tools fa-lg
+  links: 
+    - title: iconfont图标库
+      logo: iconfont.svg
+      url: https://www.iconfont.cn/
